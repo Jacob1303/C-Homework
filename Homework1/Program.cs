@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите 2 целых числа");
+﻿Console.WriteLine("Сейчас, дружок, я помогу тебе сравнить 2 числа. Введи 2 целых числа");
 Console.Write("Число 1 - ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Число 2 - ");
